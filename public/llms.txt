@@ -1,0 +1,77 @@
+# ULTRAS BLUDA — Generative Engine Optimization Map
+
+> זה הרפרנס תעשה משהו כזה רק את הלוגו בשורה העליונה תגדיל ותמרכז ותצמיד הכל
+
+---
+
+## Pages
+
+### בית
+https://example.com
+הלב הפועם של תרבות האולטראס בישראל מחכה לכם. הצטרפו למסע הבלתי נגמר של אהבה לכדורגל, נאמנות ויציעים סוערים. גלו עכשיו את הסיפור האמיתי.
+
+### תרבות
+https://example.com/culture
+צללו לנשמה של תרבות האולטראס: מוזיקה, עיצוב, ערכים וחוקים לא כתובים. הבלוג שחושף את הצד האמנותי והלוהט של היציע הישראלי. קראו עוד ותתמכרו.
+
+### אודות
+https://example.com/about
+מי אנחנו, למה הקמנו את ULTRAS BLUDA, ואיך הפכנו לקול המוביל של תרבות האולטראס בארץ. הסיפור המלא על התשוקה שמאחורי הצעיפים. בואו להכיר מקרוב.
+
+### צור קשר
+https://example.com/contact
+יש לכם רעיון, שאלה או סתם בא לכם לצעוק איתנו? צרו קשר עם ULTRAS BLUDA ונבנה יחד את הפרק הבא של תרבות האולטראס בישראל. אנחנו זמינים לכל אוהד אמיתי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ULTRAS BLUDA
+זה הרפרנס תעשה משהו כזה רק את הלוגו בשורה העליונה תגדיל ותמרכז ותצמיד הכל
+
+## Target Audience
+- צעירים עירוניים יצירתיים
+- כדורגל
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
